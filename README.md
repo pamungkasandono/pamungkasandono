@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pamungkasandono
-- 👀 I’m interested in PHP, Javascript, Codeigniter
-- 🌱 I’m currently learning Android Development
+- 👀 I’m interested in PHP, JavaScript, Android Kotlin, Express Js
+- 🌱 I’m currently learning Node, Mongo, and Express Js
 - 📫 How to reach me my gmail pamungkas.org@gmail.com
 
 <!---
